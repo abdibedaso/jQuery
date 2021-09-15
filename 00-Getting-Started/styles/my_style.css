@@ -1,0 +1,15 @@
+#section {
+    width: 50%;
+    float: left;
+}
+
+#change_me {
+    position: relative;
+    top: 100px;
+    left: 25%;
+    font: 24px arial;
+}
+
+#move_up #move_down #color #disappear {
+    padding: 5px;
+}
