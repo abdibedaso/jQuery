@@ -1,0 +1,27 @@
+#section {
+    width: 50%;
+    float: left;
+}
+
+#clickMe {
+    width: 80%;
+    background: #392cac;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #10166d;
+    color: aliceblue;
+    margin-left: 5px;
+}
+
+#picframe {
+    width: 80%;
+    background: #392cac;
+    padding: 20px;
+    display: none;
+    border: 2px solid #10166d;
+    margin-left: 5px;
+}
+
+#picframe img {
+    width: 100%;
+}
