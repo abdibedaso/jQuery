@@ -46,8 +46,46 @@ $(selector | java object | HTML)
 
  The jQuery function can handle selectors, straight HTML, and even JavaScript objects.
 
+
+| # Topics |                                                                       Topics                                                                        |
+| -------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 01       |                                                             [jQuery Selectors](./02-Selectors)                                                        |
+### 01 - jQuery Selectors
+ We use jQuery selectors to select and manipulate HTML element(s).
+
+ - The element Selector 
+    - The jQuery element selector selects elements based on the element name.
+    
+```js
+$("p") // To select all <p> elements on a page.
+```
+
+ - The element Selector 
+    - The jQuery element selector selects elements based on the element name.
+    
+```js
+$("p") // To select all <p> elements on a page.
+```
+
+ - The #id Selector
+    - The jQuery #id selector uses the id attribute of an HTML tag to find the specific element.
+    
+```js
+$("#id") // To find an element with a specific id, we use a hash character, followed by the id of the HTML element.
+```
+
+ - The .class Selector
+    - The jQuery #id selector uses the id attribute of an HTML tag to find the specific element.
+    
+```js
+$(".class") // To find elements with a specific class, we use a period character, followed by the name of the class.
+```
+
+<br/>
+<br/>
 <div align="center">
-  <h1> jQuery powered applications </h1>
+  <h3> jQuery powered applications </h3>
+  <hr/>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abdibedaso/">
     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
