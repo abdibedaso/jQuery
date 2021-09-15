@@ -49,7 +49,7 @@ $(selector | java object | HTML)
 
 | # Topics |                                                                       Topics                                                                        |
 | -------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01       |                                                             [jQuery Selectors](./02-Selectors)                                                        |
+| 02       |                                                             [jQuery Selectors](./02-Selectors)                                                        |
 ### 01 - jQuery Selectors
  We use jQuery selectors to select and manipulate HTML element(s).
 
