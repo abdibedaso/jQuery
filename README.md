@@ -2,7 +2,7 @@
 
 | # Topics |                                                                       Topics                                                                        |
 | -------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 00       |                                                             [Getting Started](./01-Getting-Started)                                                 |
+| 00       |                                                             [Getting Started](./00-Getting-Started)                                                 |
 
 ### 00 - Getting Started
   jQuery is a JavaScript library specialized for changing web page documents on the fly.
@@ -29,6 +29,9 @@ $(function(){
 });
 ```
 
+| # Topics |                                                                       Topics                                                                        |
+| -------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 01       |                                                             [jQuery Function](./01-Function)                                                        |
 ### 01 - jQuery Function
  We use jQuery function to select elements from an HTML page to manipulate.
 
