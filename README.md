@@ -71,14 +71,16 @@ $("p") // To select all <p> elements on a page.
     - The jQuery #id selector uses the id attribute of an HTML tag to find the specific element.
     
 ```js
-$("#id") // To find an element with a specific id, we use a hash character, followed by the id of the HTML element.
+$("#id") // To find an element with a specific id, 
+// we use a hash character, followed by the id of the HTML element.
 ```
 
  - The .class Selector
-    - The jQuery #id selector uses the id attribute of an HTML tag to find the specific element.
+    - The jQuery .class selector uses the class attribute of an HTML tag to find elements having the class.
     
 ```js
-$(".class") // To find elements with a specific class, we use a period character, followed by the name of the class.
+$(".class") // To find elements with a specific class, 
+// we use a period character, followed by the name of the class.
 ```
 
 <br/>
