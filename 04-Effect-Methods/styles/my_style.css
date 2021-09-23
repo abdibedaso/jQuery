@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+}
+
+.br {
+    margin-top: 20px;
+}
+
+#panel,
+#hello {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    width: 100%;
+    padding: 50px;
+    display: none;
+}
